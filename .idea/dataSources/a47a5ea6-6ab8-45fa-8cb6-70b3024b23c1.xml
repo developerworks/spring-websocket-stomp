@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.4">
+    <root id="1"/>
+    <schema id="2" parent="1" name="admin">
+      <Current>1</Current>
+    </schema>
+    <schema id="3" parent="1" name="admin_test"/>
+    <schema id="4" parent="1" name="app_generator"/>
+    <schema id="5" parent="1" name="beaconSystem"/>
+    <schema id="6" parent="1" name="blog_dev"/>
+    <schema id="7" parent="1" name="blog_test"/>
+    <schema id="8" parent="1" name="card_marketing"/>
+    <schema id="9" parent="1" name="configurations"/>
+    <schema id="10" parent="1" name="ejabberd"/>
+    <schema id="11" parent="1" name="ejabberd_a"/>
+    <schema id="12" parent="1" name="example-spring-boot-server-mysql"/>
+    <schema id="13" parent="1" name="example-spring-data-rest"/>
+    <schema id="14" parent="1" name="game_100001"/>
+    <schema id="15" parent="1" name="gbox"/>
+    <schema id="16" parent="1" name="gbox_console"/>
+    <schema id="17" parent="1" name="hello_phoenix_dev"/>
+    <schema id="18" parent="1" name="hierarchy_data"/>
+    <schema id="19" parent="1" name="information_schema"/>
+    <schema id="20" parent="1" name="jooq"/>
+    <schema id="21" parent="1" name="jrbac"/>
+    <schema id="22" parent="1" name="log_100001"/>
+    <schema id="23" parent="1" name="longfor"/>
+    <schema id="24" parent="1" name="loopback_relations_basic"/>
+    <schema id="25" parent="1" name="maven-jpa"/>
+    <schema id="26" parent="1" name="mysql"/>
+    <schema id="27" parent="1" name="oauth2"/>
+    <schema id="28" parent="1" name="openfire"/>
+    <schema id="29" parent="1" name="openrtb"/>
+    <schema id="30" parent="1" name="performance_schema"/>
+    <schema id="31" parent="1" name="phoenix_json_api_dev"/>
+    <schema id="32" parent="1" name="phoenix_json_api_prod"/>
+    <schema id="33" parent="1" name="phoenix_json_api_test"/>
+    <schema id="34" parent="1" name="rain_flower_pebbles"/>
+    <schema id="35" parent="1" name="rain_flower_pebbles_test"/>
+    <schema id="36" parent="1" name="rbac"/>
+    <schema id="37" parent="1" name="reviewdb"/>
+    <schema id="38" parent="1" name="spring-guides-accessing-data-mysql"/>
+    <schema id="39" parent="1" name="sys"/>
+    <schema id="40" parent="1" name="testdb"/>
+    <schema id="41" parent="1" name="usersystem"/>
+    <schema id="42" parent="1" name="vutuv_dev"/>
+    <schema id="43" parent="1" name="spring-websocket-stomp">
+      <Visible>1</Visible>
+    </schema>
+  </database-model>
+</dataSource>
